@@ -1,6 +1,6 @@
 :root {
   --preto: #290a0a;
-  --vermelha: #e93d50;
+  --vermelha: #33050a;
   --vermelha-escura: #af303f;
   --branca: #fff;
   --luz: rgb(229, 255, 0);
@@ -36,7 +36,7 @@ h1 {
   background-color: var(--branca);
   border-radius: 30px;
   box-shadow: 3px 3px 0 var(--cinza);
-  color: var(--vermelha);
+  color: var(--vermelhap);
   cursor: pointer;
   height: 120px;
   font-size: 1.75em;
