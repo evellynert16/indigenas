@@ -2,7 +2,11 @@
   --preto: #290a0a;
   --vermelha: #33050a;
   --vermelha-escura: #af303f;
+<<<<<<< HEAD
+  --roxo: #A20CA9
+=======
   --branca: rgb(138,43,226);
+>>>>>>> 76bea14ff0e1463fc8a0dfd928b080e350e63572
   --luz: rgb(229, 255, 0);
 }
 
@@ -33,7 +37,7 @@ h1 {
 }
 
 .tecla {
-  background-color: var(--branca);
+  background-color: var(--roxo);
   border-radius: 30px;
   box-shadow: 3px 3px 0 var(--cinza);
   color: var(--vermelha);
