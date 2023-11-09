@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-  color: var(--azul);
+  color: var(--branca);
   box-shadow: 3px 3px 0 var(--branca);
   margin-bottom: 40px;
   font-size:7rem;
