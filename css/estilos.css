@@ -53,9 +53,9 @@ h1 {
 
 .tecla.ativa,
 .tecla:active {
-  background-color: var(--vermelha);
-  border: 4px solid  var(--vermelha);
-  box-shadow: 3px 3px 0 var(--vermelha-escura) inset;
+  background-color: var(--preta);
+  border: 4px solid  var(--preta);
+  box-shadow: 3px 3px 0 var(--azul) inset;
   color: var(--branca);
   outline: none;
 }
