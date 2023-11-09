@@ -6,6 +6,7 @@
  --luz: rgb(229, 255, 0);
  --rosa: #FF00FF;
  --roxo:rgb(128, 0, 128);
+ --azul:rgb(0, 0, 255);
 }
 
 body {
@@ -38,7 +39,7 @@ h1 {
   background-color: var(--roxo);
   border-radius: 30px;
   box-shadow: 3px 3px 0 var(--cinza);
-  color: var(--vermelha-escura);
+  color: var(--azul);
   cursor: pointer;
   height: 120px;
   font-size: 1.75em;
