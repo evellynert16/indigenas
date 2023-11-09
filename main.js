@@ -1,4 +1,4 @@
-function TocaSomTim() {
-    document.querySelector('#som_tecla_tim').play()
+function TocaSomPom() {
+    document.querySelector('#som_tecla_pom').play()
 }
-document.querySelector('.tecla_tim').onclick=TocaSomTim;
+document.querySelector('.tecla_pom').onclick=TocaSompom;
